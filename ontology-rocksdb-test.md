@@ -1,10 +1,10 @@
 # RocksDB、LevelDB、Ontology集成测试报告
 测试环境：
-RocksDB：version 5.10 
-操作系统：Ubuntu 16.04.4 LTS  
-CPU：16 * Intel(R) Xeon(R) CPU E5-2698B v3 @ 2.00GHz
-MEM：32G
-DISK：SSD 最高 20000 iops
+RocksDB：version 5.10  
+操作系统：Ubuntu 16.04.4 LTS   
+CPU：16 * Intel(R) Xeon(R) CPU E5-2698B v3 @ 2.00GHz  
+MEM：32G  
+DISK：SSD 最高 20000 iops  
 
 ## 1、RocksDB 性能测试
 
