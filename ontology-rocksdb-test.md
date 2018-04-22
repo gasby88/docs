@@ -55,8 +55,7 @@ Entries：50000000
 平均TPS：13777.54  
 平均DB耗时比率：30.54%  
 
-
-Ontology落帐处理上，非DB处理性能损耗偏大。
+![pic](https://github.com/gasby88/docs/blob/master/img/%E5%AD%98%E5%82%A8%E6%A8%A1%E5%9D%97%E4%BA%A4%E6%98%93%E8%90%BD%E5%B8%90tps.jpeg)
 
 ## 3、性能分析文件
 
